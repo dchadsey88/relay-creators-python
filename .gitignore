@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+app/__pycache__/
+*.py[cod]
+.vscode/
+
+notebooks/
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.env
+*.ipynb
+gst
+*.csv
+raw_data/
+app/hidden.py
